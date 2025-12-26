@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou estudante de Informática no IFSP
+## 👋 Olá! Eu sou Túlio Canavesi Morato
 
 🎓 Técnico em Informática – IFSP (3º ano)
 
