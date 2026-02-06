@@ -1,7 +1,6 @@
 ## 👋 Olá! Eu sou Túlio Canavesi Morato
 
 🎓 Estudante do curso Técnico em Informática – IFSP (3º ano)  
-💼 Em busca de oportunidade de **estágio na área de Tecnologia**
 
 ### 💻 Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
