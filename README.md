@@ -12,4 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/>
 </p>
 
+### 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+</p>
+
 🚀 Desenvolvimento de projetos acadêmicos e pessoais nas áreas de **software, redes, eletrônica e sistemas embarcados**, com foco em aprendizado contínuo e boas práticas de programação.
