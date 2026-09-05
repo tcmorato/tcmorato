@@ -1,5 +1,3 @@
-# Olá! Eu sou Túlio 👋
-
 🎓 **Estudante do 3º ano do Técnico em Informática — IFSP**
 
 💻 Tenho interesse em **desenvolvimento de software** e gosto de explorar diferentes áreas da tecnologia, criando projetos para transformar o que estudo em prática.
